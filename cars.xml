@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<Collection>
+	<car id="1">
+		<availability>true</availability>
+		<category>sedan</category>
+		<brand>Toyota</brand>
+		<model year="2013">Camry</model>
+		<seats>5</seats>
+		<fuel_type>Petrol</fuel_type>
+		<mileage>1000</mileage>
+		<price_per_day>120</price_per_day>
+		<description>Best Car for a small roadtrip</description>	
+	</car>
+	
+	<car id="2">
+		<availability>true</availability>
+		<category>sedan</category>
+		<brand>Toyota</brand>
+		<model year="2013">Camry</model>
+		<seats>5</seats>
+		<fuel_type>Petrol</fuel_type>
+		<mileage>1000</mileage>
+		<price_per_day>120</price_per_day>
+		<description>Best Car for a small roadtrip</description>	
+	</car>
+	
+	<car id="3">
+		<availability>true</availability>
+		<category>SUV</category>
+		<brand>Chevrolet</brand>
+		<model year="2016">Captiva</model>
+		<seats>8</seats>
+		<fuel_type>Petrol</fuel_type>
+		<mileage>900</mileage>
+		<price_per_day>200</price_per_day>
+		<description>The best car for a family</description>	
+	</car>
+	
+	<car id="4">
+		<availability>true</availability>
+		<category>SUV</category>
+		<brand>Jeep</brand>
+		<model year="2019">Cherokee</model>
+		<seats>8</seats>
+		<fuel_type>Diesel</fuel_type>
+		<mileage>1000</mileage>
+		<price_per_day>400</price_per_day>
+		<description>The luxury for the beaten path trips</description>	
+	</car>
+
+	<car id="5">
+		<availability>true</availability>
+		<category>Sedan</category>
+		<brand>Honda</brand>
+		<model year="2017">Civic</model>
+		<seats>5</seats>
+		<fuel_type>Petrol</fuel_type>
+		<mileage>1200</mileage>
+		<price_per_day>150</price_per_day>
+		<description>Perfect for your everyday trips from home to work</description>	
+	</car>
+	
+	<car id="6">
+		<availability>true</availability>
+		<category>SUV</category>
+		<brand>Mercedes</brand>
+		<model year="2018">GLC</model>
+		<seats>5</seats>
+		<fuel_type>Petrol</fuel_type>
+		<mileage>1500</mileage>
+		<price_per_day>300</price_per_day>
+		<description>An SUV for the ones that wants detail in luxury</description>	
+	</car>
+	
+	<car id="7">
+		<availability>true</availability>
+		<category>Wagon</category>
+		<brand>Volkswagen</brand>
+		<model year="2014">Golf</model>
+		<seats>5</seats>
+		<fuel_type>Petrol</fuel_type>
+		<mileage>2200</mileage>
+		<price_per_day>100</price_per_day>
+		<description>A small city explorer, perfect fo the urban jungle</description>	
+	</car>
+	
+	<car id="8">
+		<availability>true</availability>
+		<category>Wagon</category>
+		<brand>Volkswagen</brand>
+		<model year="2014">Golf</model>
+		<seats>5</seats>
+		<fuel_type>Petrol</fuel_type>
+		<mileage>1800</mileage>
+		<price_per_day>100</price_per_day>
+		<description>A small city explorer, perfect fo the urban jungle</description>	
+	</car>
+	<car id="9">
+		<availability>false</availability>
+		<category>SUV</category>
+		<brand>Suzuki</brand>
+		<model year="2009">jimny</model>
+		<seats>5</seats>
+		<fuel_type>Diesel</fuel_type>
+		<mileage>4200</mileage>
+		<price_per_day>120</price_per_day>
+		<description>
+		A cheap and lite SUV for those in a budget
+		</description>	
+	</car>
+	
+	<car id="10">
+		<availability>false</availability>
+		<category>Sedan</category>
+		<brand>Hyundai</brand>
+		<model year="2010">Sonata</model>
+		<seats>5</seats>
+		<fuel_type>Petrol</fuel_type>
+		<mileage>2200</mileage>
+		<price_per_day>180</price_per_day>
+		<description>A budget luxury sedan for a road trip</description>	
+	</car>
+	
+	<car id="11">
+		<availability>false</availability>
+		<category>SUV</category>
+		<brand>Nissan</brand>
+		<model year="2010">X-trail</model>
+		<seats>8</seats>
+		<fuel_type>Diesel</fuel_type>
+		<mileage>2000</mileage>
+		<price_per_day>150</price_per_day>
+		<description>
+		An SUV for small families with comfort and safety in mind</description>	
+	</car>
+	
+	<car id="12">
+		<availability>false</availability>
+		<category>SUV</category>
+		<brand>Nissan</brand>
+		<model year="2010">X-trail</model>
+		<seats>8</seats>
+		<fuel_type>Diesel</fuel_type>
+		<mileage>2000</mileage>
+		<price_per_day>150</price_per_day>
+		<description>An SUV for small families with comfort and safety in mind</description>	
+	</car>
+</Collection>

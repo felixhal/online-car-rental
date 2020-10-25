@@ -1,0 +1,70 @@
+body{
+padding:0;
+margin:0;
+background:#F4F3EE;
+}
+
+.topnav{
+background: #141518;
+overflow: hidden;
+}
+
+#logo{
+float: left;
+color: white;
+text-align: center;
+padding: 10px 12px;
+text-decoration: none;
+font-family: 'Poppins', sans-serif;
+font-size: 30px;
+color: #F6DB2D;
+}
+
+#Reserve{
+background: #F6DB2D;
+border: 4px solid #F6DB2D;
+float: right;
+text-align: center;
+padding:8px 9px;
+font-size:20px;
+margin:12px;
+transition-duration:0.4s;
+cursor:pointer;
+}
+
+#Reserve:hover{
+background-color: black;
+border: 4px solid #F6DB2D;
+color:#F6DB2D
+}
+
+.wrapper{
+display:grid;
+grid-template-columns: 24.25% 24.25% 24.25% 24.25%;
+grid-columns-gap: 30px;
+grid-gap: 10px;
+margin-left: 10px;
+margin-top: 10px;
+}
+
+.wrapper > div{
+background: white;
+text-align: center;
+padding: 2px;
+}
+
+.wrapper > div > h3{
+font-family: 'Poppins', sans-serif;
+}
+
+.wrapper > div > form > table{
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+.wrapper > div > form > table td{
+padding: 8px;
+font-size: 15px;
+text-align: left;
+border-bottom: 1px solid #ddd;
+width: 100%;
+}

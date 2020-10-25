@@ -1,0 +1,57 @@
+body
+{
+	margin:0px;
+	padding:0px;
+}
+.container
+{
+	background-color:#141518;
+	width:auto;
+	height:50px;
+	color:#fff229;
+	font-family: 'Poppins', sans-serif;
+	border-bottom-radius-left: 75%;
+	}
+        #logo
+        {
+            position: relative;
+            float:left;
+            margin:3px;
+            font-size: 40px;
+        }
+        .navBar
+        {
+            float:right;
+            margin:10px;
+            margin-right: 30px;
+            color:white;
+            text-decoration: none;
+        }
+        
+        a:link 
+        {
+            text-decoration: none;
+            color:white;
+        }
+
+        a:visited 
+        {
+            text-decoration: none;
+            color:white;
+        }
+        a:hover
+        {
+            color:#fff229;
+        }
+        a:active
+        {
+            text-decoration: none;
+            color:white;
+        }
+        
+        .content
+        {
+            color:black;
+            font-family: 'Poppins', sans-serif;
+            text-align: center
+        }    
