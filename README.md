@@ -13,7 +13,7 @@ The booking details and confirmation will than be sent to the provided email
 4. css
 5. Ampps (Dev Environment)
 
-##How to run:
+## How to run:
 
 In order to run this you need to have a php server installed in your device.
 I used Ampps to run it locally
