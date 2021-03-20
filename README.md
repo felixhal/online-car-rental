@@ -1,4 +1,4 @@
-# CarRental_HetzUTS
+# online-car-rental
 Car Rental is a web application that allows clients of HertzUTS (fictional company) to book cars online.
 The website shows you the avaialbaility of the cars and their respective details (mileage, image, fuel type and etc) from an XML file
 Cars thet are avaialable can be booked and put in the virtual booking list which can modify the number of days its being booked.
